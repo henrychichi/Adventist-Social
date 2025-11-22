@@ -1,0 +1,7 @@
+{
+  "name": "Adventist Social",
+  "description": "A faith-based social platform for the SDA community featuring prayer walls, devotionals, events, and ministry groups.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
